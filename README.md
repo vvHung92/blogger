@@ -1,2 +1,0 @@
-# blogger
-html,css, Javascript
